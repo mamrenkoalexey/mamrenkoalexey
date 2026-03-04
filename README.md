@@ -1,16 +1,16 @@
-# 👋 Hi there! I'm Alexey
+# Hi there! I'm Alexey
 
-💻 **Junior Java Backend Developer** | REST APIs | Spring Boot | PostgreSQL  
-🚀 Building reliable and scalable backend systems  
+ **Junior Java Backend Developer** | REST APIs | Spring Boot | PostgreSQL  
+ Building reliable and scalable backend systems  
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 I'm a passionate **Java Backend Developer** who loves solving real-world problems through clean and efficient code.  
 Currently improving my skills in **microservices**, **Spring Security**, and **Docker orchestration**.
 
 ---
-### 🧠 Tech Stack
+### Tech Stack
 
 **Backend:**  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -32,11 +32,11 @@ Currently improving my skills in **microservices**, **Spring Security**, and **D
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ---
 
-### 🚀 Featured Projects
-- 🚗 [**Car Dealer REST API**](https://github.com/mamrenkoalexey/Car-Dealer) — A RESTful API simulating a car dealership management system. Built with **Spring Boot** and **MySQL**, it handles cars, customers, and sales, showcasing strong backend structure and clean code practices.
-- 🧾 [**Todo REST API**](https://github.com/mamrenkoalexey/To-Do-List) — A simple ToDo List application built with Java, Spring Boot, JPA/Hibernate, and PostgreSQL, deployed on Render.
+### Featured Projects
+- [**Car Dealer REST API**](https://github.com/mamrenkoalexey/Car-Dealer) — A RESTful API simulating a car dealership management system. Built with **Spring Boot** and **MySQL**, it handles cars, customers, and sales, showcasing strong backend structure and clean code practices.
+- [**Todo REST API**](https://github.com/mamrenkoalexey/To-Do-List) — A simple ToDo List application built with Java, Spring Boot, JPA/Hibernate, and PostgreSQL, deployed on Render.
 
-### 🌱 Currently Learning
+### Currently Learning
 - Advanced **Spring Security** (OAuth2, JWT)
 - **Microservices** with Spring Cloud
 - **Docker Compose** for multi-container environments
@@ -44,7 +44,7 @@ Currently improving my skills in **microservices**, **Spring Security**, and **D
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 [LinkedIn](https://www.linkedin.com/in/alexey-mamrenko-766a31335) • [Email](mailto:mamrenko.alexey@gmail.com)
 
 ---
