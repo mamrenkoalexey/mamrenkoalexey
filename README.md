@@ -35,6 +35,7 @@ Currently improving my skills in **microservices**, **Spring Security**, and **D
 ### Featured Projects
 - [**Car Dealer REST API**](https://github.com/mamrenkoalexey/Car-Dealer) — A RESTful API simulating a car dealership management system. Built with **Spring Boot** and **MySQL**, it handles cars, customers, and sales, showcasing strong backend structure and clean code practices.
 - [**Todo REST API**](https://github.com/mamrenkoalexey/To-Do-List) — A simple ToDo List application built with Java, Spring Boot, JPA/Hibernate, and PostgreSQL, deployed on Render.
+- [**Car Dealership Management System**](https://github.com/mamrenkoalexey/Praca-Dyplomowa-Graduation-thesis) - A comprehensive web-based information system for car dealership management, built with REST API architecture and UML modeling.
 
 ### Currently Learning
 - Advanced **Spring Security** (OAuth2, JWT)
