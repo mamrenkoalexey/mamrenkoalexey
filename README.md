@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oleksii Mamrenko</h1>                           
+<h1 align="center">Hi, I'm Alexey Mamrenko</h1>                           
   <h3 align="center">Java Backend Developer · Spring Boot · REST APIs ·         
   PostgreSQL</h3>                                                               
    
