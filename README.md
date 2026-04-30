@@ -1,55 +1,84 @@
-# Hi there! I'm Alexey
+<h1 align="center">Hi, I'm Oleksii Mamrenko</h1>                           
+  <h3 align="center">Java Backend Developer · Spring Boot · REST APIs ·         
+  PostgreSQL</h3>                                                               
+   
+  <p align="center">                                                            
+    <a href="https://www.linkedin.com/in/alexey-mamrenko-766a31335">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>                                             
+    </a>                                                                        
+    <a href="mailto:mamrenko.alexey@gmail.com">                                 
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>                                                   
+    </a>                                                                        
+  </p>                                                                          
+                  
+  ---
 
- **Junior Java Backend Developer** | REST APIs | Spring Boot | PostgreSQL  
- Building reliable and scalable backend systems  
+  ### About Me                                                                  
+   
+  Backend developer focused on building clean, reliable Java applications.      
+  I work with **Spring Boot**, **REST APIs**, and **PostgreSQL**, and I'm
+  currently deepening my knowledge of **microservices**, **Spring Security      
+  (OAuth2/JWT)**, and **Docker**.
+                                                                                
+  - Based in **Warsaw, Poland**
+  - Open to **Junior Java Developer** roles (remote / hybrid / on-site)
+  - Currently available in **~1 month**                                         
+                                                                                
+  ---                                                                           
+                                                                                
+  ### Tech Stack  
 
----
+  **Backend**                                                                   
+   
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)                                         
+  ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)                             
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)                                                
+  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)                                                      
+                  
+  **Databases**                                                                 
+                  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)                                                            
+   
+  **DevOps & Tools**                                                            
+                  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)    
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)                                                            
+   
+  ---                                                                           
+                  
+  ### Projects
 
-### About Me
-I'm a passionate **Java Backend Developer** who loves solving real-world problems through clean and efficient code.  
-Currently improving my skills in **microservices**, **Spring Security**, and **Docker orchestration**.
+  | Project | Description | Stack |
+  |---------|-------------|-------|
+  | [Car Dealer REST API](https://github.com/mamrenkoalexey/Car-Dealer) |RESTful API for car dealership management — cars, customers, sales | Spring   Boot, MySQL |
+  | [Todo REST API](https://github.com/mamrenkoalexey/To-Do-List) | Todo app    with full CRUD, deployed on Render | Spring Boot, JPA, PostgreSQL |
+  | [Car Dealership System](https://github.com/mamrenkoalexey/Praca-Dyplomowa-Graduation-thesis) |Full web-based management system with REST architecture and UML modeling |Spring Boot, REST, UML |                                                      
+                  
+  ---
 
----
-### Tech Stack
+  ### Currently Learning
 
-**Backend:**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white)
+  - Spring Security — OAuth2 & JWT                                              
+  - Microservices with Spring Cloud
+  - Docker Compose for multi-container apps                                     
+  - CI/CD with GitHub Actions
 
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+  ---
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+  ### GitHub Stats
 
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
----
-
-### Featured Projects
-- [**Car Dealer REST API**](https://github.com/mamrenkoalexey/Car-Dealer) — A RESTful API simulating a car dealership management system. Built with **Spring Boot** and **MySQL**, it handles cars, customers, and sales, showcasing strong backend structure and clean code practices.
-- [**Todo REST API**](https://github.com/mamrenkoalexey/To-Do-List) — A simple ToDo List application built with Java, Spring Boot, JPA/Hibernate, and PostgreSQL, deployed on Render.
-- [**Car Dealership Management System**](https://github.com/mamrenkoalexey/Praca-Dyplomowa-Graduation-thesis) - A comprehensive web-based information system for car dealership management, built with REST API architecture and UML modeling.
-
-### Currently Learning
-- Advanced **Spring Security** (OAuth2, JWT)
-- **Microservices** with Spring Cloud
-- **Docker Compose** for multi-container environments
-- **CI/CD** pipelines with GitHub Actions
-
----
-
-### Connect with Me
-[LinkedIn](https://www.linkedin.com/in/alexey-mamrenko-766a31335) • [Email](mailto:mamrenko.alexey@gmail.com)
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamrenkoalexey&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamrenkoalexey&layout=compact&theme=tokyonight)
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mamrenkoalexey&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>            
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamrenkoalexey&layout=compact&theme=tokyonight&hide_border=true" height="150"/>  
+  </p>            
+                                                                                
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamrenkoalexey&theme=tokyonight&hide_border=true"/>                                      
+  </p>
+                                                                                
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mamrenkoalexey&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>                                      
+  </p>
