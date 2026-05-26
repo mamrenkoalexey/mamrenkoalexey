@@ -22,7 +22,7 @@
                                                                                 
   - Based in **Warsaw, Poland**
   - Open to **Junior Java Developer** roles (remote / hybrid / on-site)
-  - Currently available in **~1 month**                                         
+  - Currently available in **~1 month**                                          
                                                                                 
   ---                                                                           
                                                                                 
@@ -30,33 +30,36 @@
 
   **Backend**                                                                   
    
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)                                         
-  ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)                             
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)                                                
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+  ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+  ![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)                                                      
                   
   **Databases**                                                                 
-                  
+   
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)                                                            
    
   **DevOps & Tools**                                                            
                   
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)    
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)                                                            
    
   ---                                                                           
                   
   ### Projects
 
-  | Project | Description | Stack |
+ | Project | Description | Stack |
   |---------|-------------|-------|
-  | [Car Dealer REST API](https://github.com/mamrenkoalexey/Car-Dealer) |RESTful API for car dealership management — cars, customers, sales | Spring   Boot, MySQL |
-  | [Todo REST API](https://github.com/mamrenkoalexey/To-Do-List) | Todo app    with full CRUD, deployed on Render | Spring Boot, JPA, PostgreSQL |
-  | [Car Dealership System](https://github.com/mamrenkoalexey/Praca-Dyplomowa-Graduation-thesis) |Full web-based management system with REST architecture and UML modeling |Spring Boot, REST, UML |                                                      
-                  
+  | [doc-chat](https://github.com/mamrenkoalexey/doc-chat) | Chatbot — upload documents orimages and ask questions about them using RAG | Spring Boot, Spring AI, pgvector, OpenAI |
+  | [Car Dealer REST API](https://github.com/mamrenkoalexey/Car-Dealer) | RESTful API for car dealership management — cars, customers, sales | Spring Boot, MySQL |
+  | [Todo REST API](https://github.com/mamrenkoalexey/To-Do-List) | Todo app with full CRUD, deployed on Render | Spring Boot, JPA, PostgreSQL |
+  | [Car Dealership System](https://github.com/mamrenkoalexey/Praca-Dyplomowa-Graduation-thesis)| Full web-based management system with REST architecture and UML modeling | Spring Boot,REST, UML |
+                                                    
   ---
 
   ### Currently Learning
